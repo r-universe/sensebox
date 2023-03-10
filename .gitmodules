@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "opensensmapr"]
+	path = opensensmapr
+	url = https://github.com/sensebox/opensensmapr
+	shallow = true
+	registered = true
